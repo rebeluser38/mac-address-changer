@@ -2,5 +2,5 @@ Resource and requirements defines what the environment and plateforms or the exc
 
 first we need a system equipped with linux and virtual machine/ware is optional in it.
 if every resource is updated or say up to date it'd more beneficial n less stressing.
-we have to install Python3 
+we have to install some additional directories and environment 
 we have to be in root privilage

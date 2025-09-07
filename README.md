@@ -26,19 +26,24 @@ this is the command to install mac-changer in linux.
 
 $ apt-get update && upgrade
 ```
-this one is for making all the directories and dictonary up to date
+this one is for making all the directories and dictionary up to date.
 ```
 
 $ ip a
 ```
-this command is used for to the current IP related ADDRESS of the device and this includes our MAC address too
+this command is used for to the current IP related ADDRESS of the device and this includes our MAC address too.
 ```
 
 $ macchanger -r eth0
 ```
-this command is used to spoof the mac address to the RANDOM one
+"-r 'port name'" command is used to spoof the mac address to the RANDOM one.
 ```
 
-6$ 
+$ macchanger -m b2:aa:23:n3:d8:55 eth1 
 ```
-#
+-m this command we can set our MAC address of our own choice. 
+```
+
+$ macchanger -l
+```
+this shows the list of prefix of all the devices registered on the globe, this is provided to help the user to customize their mac address to manuplate the device name which was recognized by the prefix of the MAC 

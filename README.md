@@ -12,3 +12,12 @@ Privacy: which Prevent tracking based on our physical address on public networks
 Bypass MAC Filters: Some networks restrict access by MAC addresses; spoofing can be used during authorized security testing to evaluate network security.(usually happens when an individual mac address id blocked)
 Security Testing: Used in penetration tests to simulate attacks or test defenses.
 
+lets move ahead with the script in steps:
+```bash
+1$ sudo su
+2$ apt install macchanger
+3$ apt-get update && upgrade
+4$ ip a
+5$ macchanger -r eth0
+6$ 
+```

@@ -16,29 +16,36 @@ Security Testing: Used in penetration tests to simulate attacks or test defenses
 ```
 $ sudo su
 ```
+<img width="549" height="149" alt="Screenshot 2025-09-08 140441" src="https://github.com/user-attachments/assets/e454df9b-01d9-4fdf-8830-e13dbdc8e692" />
 this script is used to enter in the root terminal, and while performing this spoofing this is the compulsory step.
 ```
 
 $ apt install macchanger
 ```
+<img width="953" height="378" alt="Screenshot 2025-09-08 140913" src="https://github.com/user-attachments/assets/81c83f6c-6c84-4f66-86db-eade3b2228da" />
 this is the command to install mac-changer in linux.
 ```
 
 $ apt-get update && upgrade
 ```
+<img width="416" height="110" alt="Screenshot 2025-09-08 141204" src="https://github.com/user-attachments/assets/6a0649ee-c517-49a6-a90b-8de55bfde393" />
 this one is for making all the directories and dictionary up to date.
+<img width="444" height="104" alt="Screenshot 2025-09-08 141218" src="https://github.com/user-attachments/assets/09f056c9-7fdf-4665-b008-96116f12738f" />
+
 ```
 
 $ ip a
 ```
+<img width="959" height="563" alt="Screenshot 2025-09-08 141413" src="https://github.com/user-attachments/assets/77980d1f-1398-434b-8b68-9e1281c7f2f5" />
 this command is used for to the current IP related ADDRESS of the device and this includes our MAC address too.
 ```
 
 $ macchanger -r eth0
 ```
+<img width="959" height="563" alt="Screenshot 2025-09-08 141413" src="https://github.com/user-attachments/assets/bd879000-48d7-40e3-a8c0-6e0ed36edf81" />
 "-r 'port name'" command is used to spoof the mac address to the RANDOM one.
 ```
-
+`
 $ macchanger -m b2:aa:23:n3:d8:55 eth1 
 ```
 -m this command we can set our MAC address of our own choice. 
@@ -47,3 +54,4 @@ $ macchanger -m b2:aa:23:n3:d8:55 eth1
 $ macchanger -l
 ```
 this shows the list of prefix of all the devices registered on the globe, this is provided to help the user to customize their mac address to manuplate the device name which was recognized by the prefix of the MAC 
+

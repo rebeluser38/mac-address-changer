@@ -49,9 +49,14 @@ $ macchanger -r eth0
 $ macchanger -m b2:aa:23:n3:d8:55 eth1 
 ```
 -m this command we can set our MAC address of our own choice. 
+<img width="597" height="129" alt="Screenshot 2025-09-08 144226" src="https://github.com/user-attachments/assets/64707458-5ba4-47ab-a218-f5250d09c2ec" />
+
 ```
+
 
 $ macchanger -l
 ```
+<img width="941" height="733" alt="Screenshot 2025-09-08 144408" src="https://github.com/user-attachments/assets/4b94f194-1fab-400d-8a70-f1f1b535919b" />
+
 this shows the list of prefix of all the devices registered on the globe, this is provided to help the user to customize their mac address to manuplate the device name which was recognized by the prefix of the MAC 
 

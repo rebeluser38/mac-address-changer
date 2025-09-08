@@ -17,6 +17,7 @@ Security Testing: Used in penetration tests to simulate attacks or test defenses
 $ sudo su
 ```
 <img width="549" height="149" alt="Screenshot 2025-09-08 140441" src="https://github.com/user-attachments/assets/e454df9b-01d9-4fdf-8830-e13dbdc8e692" />
+
 this script is used to enter in the root terminal, and while performing this spoofing this is the compulsory step.
 
 ```

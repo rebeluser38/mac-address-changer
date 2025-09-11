@@ -1,4 +1,4 @@
-Subject: Tool Usage Disclaimer
+# Subject: Tool Usage Disclaimer
 
 This tool is strictly intended for educational purposes only. Any misuse, including but not limited to unfair or unethical activities, is strictly prohibited. Users are solely responsible for their actions and any consequences arising from improper use of this tool.
 
@@ -9,7 +9,7 @@ By using this tool, you agree to these terms.
 Thank you for your understanding and cooperation.
 
 
-# IMPORTANT INFO TO BE KEEP IN KNOWLEDGE
+### IMPORTANT INFO TO BE KEEP IN KNOWLEDGE
 Hey Team,
 
 Just a quick note to keep you in the loop about some sneaky ways attackers might spoof MAC addresses. You probably know the basics, but there are a few other tricks out there that we should be aware of:
@@ -34,7 +34,7 @@ Cheers man,
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Resource and requirements defines what the environment and plateforms or the exceptional primary stuff we need to operate in this while spoofing the MAC address
+## Resource and requirements defines what the environment and plateforms or the exceptional primary stuff we need to operate in this while spoofing the MAC address
 
 first we need a system equipped with linux and virtual machine/ware is optional in it.
 if every resource is updated or say up to date it'd more beneficial n less stressing.

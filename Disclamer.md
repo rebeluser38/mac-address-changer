@@ -27,10 +27,10 @@ Stick to strong authentication methods to verify devices.
 Keep firmware and drivers updated to close any loopholes.
 If you spot anything weird on the network, give us a shout. Let’s stay ahead of the game and keep things secure!
 
-Cheers man,
+<sub>Cheers man,</sub>
 
-###### Vikas
-###### singhvikas38@protonmail.com
+###### <sup> Vikas</sup>
+###### <sup> singhvikas38@protonmail.com </sup>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

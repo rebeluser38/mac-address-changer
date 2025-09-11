@@ -1,13 +1,3 @@
-Resource and requirements defines what the environment and plateforms or the exceptional primary stuff we need to operate in this while spoofing the MAC address
-
-first we need a system equipped with linux and virtual machine/ware is optional in it.
-if every resource is updated or say up to date it'd more beneficial n less stressing.
-we have to install some additional directories and environment 
-we have to be in root privilage
-and for the further scripting dont just be script-kiddie, understand the codes and then practise/apply on the system.
-
-
-```
 # IMPORTANT INFO TO BE KEEP IN KNOWLEDGE
 Hey Team,
 
@@ -29,4 +19,14 @@ If you spot anything weird on the network, give us a shout. Let’s stay ahead o
 Cheers man,
 
 [Vikas]
-```
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Resource and requirements defines what the environment and plateforms or the exceptional primary stuff we need to operate in this while spoofing the MAC address
+
+first we need a system equipped with linux and virtual machine/ware is optional in it.
+if every resource is updated or say up to date it'd more beneficial n less stressing.
+we have to install some additional directories and environment 
+we have to be in root privilage
+and for the further scripting dont just be script-kiddie, understand the codes and then practise/apply on the system.

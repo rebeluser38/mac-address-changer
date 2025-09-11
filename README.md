@@ -74,3 +74,7 @@ While `MAC` spoofing has legitimate uses, it can be used unethically to hide ide
 
 *this shows the list of prefix of all the devices registered on the globe, this is provided to help the user to customize their mac address to manuplate the device name which was recognized by the prefix of the MAC.*
 
+
+
+
+# IMPORTANT NOTE WHICH IS VERY IMPORTANT TO BE IN KNOWLEDGE
